@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SuportHand</string>
+    <string name="dispositivos_vinculados">DISPOSITIVOS VINCULADOS</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="button">Button</string>
 </resources>

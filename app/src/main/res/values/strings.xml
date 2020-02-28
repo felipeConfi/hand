@@ -3,5 +3,10 @@
     <string name="dispositivos_vinculados">DISPOSITIVOS VINCULADOS</string>
     <string name="textview">TextView</string>
     <string name="button">Button</string>
-    <string name="button">Button</string>
+    <string name="button1">Button</string>
+    <string name="control_led">Control LED</string>
+    <string name="apagar_led">APAGAR LED</string>
+    <string name="encender_led">ENCENDER LED</string>
+    <string name="dato">Dato:</string>
+    <string name="button2">Button</string>
 </resources>

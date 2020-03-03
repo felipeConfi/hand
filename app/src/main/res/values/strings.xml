@@ -9,4 +9,7 @@
     <string name="encender_led">ENCENDER LED</string>
     <string name="dato">Dato:</string>
     <string name="button2">Button</string>
+    <string name="texto_de_prueba">Texto de prueba</string>
+    <string name="tel_fono">Teléfono</string>
+    <string name="buenas_tardes">Buenas Tardes</string>
 </resources>
